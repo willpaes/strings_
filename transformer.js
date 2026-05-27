@@ -34,9 +34,6 @@ console.log("Camel cased version:");
 console.log(camelCasedVersion);
 
 
-
-
-
 const originalString = "I love cats.";
 console.log("Original string:");
 console.log(originalString);
